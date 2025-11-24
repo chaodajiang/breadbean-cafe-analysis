@@ -67,7 +67,7 @@ jupyter notebook notebooks/BreadBean_Analysis.ipynb
 
 ### Author
 
-Developed by **Chaoda (Simon) Jiang** as part of the Business Analytics coursework at UC San Diego.
+Developed by **Chaoda (Simon) Jiang**.
 
 ### License
 
